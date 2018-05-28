@@ -1,6 +1,6 @@
 # express-seed-project
 
-An ES6/ES7 Express.js starter project following best practices and Airbnb javascript style guide with JWT-based authentication, Socket.io real-time updates, multer file upload and nodemailer email notifications integration.
+An ES6/ES7 Express.js RESTful API starter project following best practices and Airbnb javascript style guide with JWT-based authentication, Socket.io real-time updates, multer file upload and nodemailer email notifications integration.
 
 ## Technology:
 
