@@ -15,4 +15,5 @@ module.exports = {
       domain: '',
     },
   },
+  MEDIA_FOLDER: 'uploads',
 };
